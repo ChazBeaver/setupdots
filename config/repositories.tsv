@@ -1,0 +1,6 @@
+# repository	source	selection	install	doctor
+appdots	git@github.com:ChazBeaver/appdots.git	required	./bootstrap.sh	./doctor.sh
+hyprdots	git@github.com:ChazBeaver/hyprdots.git	required	./bootstrap.sh	./doctor.sh
+agentdots	git@github.com:ChazBeaver/agentdots.git	required	./sync.sh	./doctor.sh
+wikinotes	git@github.com:ChazBeaver/wikinotes.git	optional	./install.sh	-
+omarchy-theme-vault	git@github.com:ChazBeaver/omarchy-theme-vault.git	optional	./install.sh	-

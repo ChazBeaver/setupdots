@@ -1,0 +1,7 @@
+# Local artifacts are never installation inputs.
+.env
+.env.*
+*.log
+/backups/
+/run-state/
+.DS_Store
